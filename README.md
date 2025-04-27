@@ -1,3 +1,8 @@
+
+ ### Developed By:Hari prasath p
+ ### Register Number:212224230084
+
+
 # Implementation of filter
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
@@ -25,8 +30,8 @@ Apply the Laplacian operator to the RGB image (image2) using OpenCV's cv2.Laplac
 
 ## Program:
 
- ### Developed By:ONTEDDU SIRISHA
- ### Register Number:212222230103
+ ### Developed By:Hari prasath p
+ ### Register Number:212224230084
 
 ### 1. Smoothing Filters
 
@@ -137,3 +142,6 @@ plt.title('Laplacian Operator')
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
+
+ ### Developed By:Hari prasath p
+ ### Register Number:212224230084
